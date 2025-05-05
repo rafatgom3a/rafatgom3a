@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafat Gomaa</h1>
-l
+
 - 💻 Junior Full-Stack Developer
 
 - 🚀 Passionate about React and Node.js
