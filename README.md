@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Rafat Gomaa!
 - 💻 Full-Stack Developer
 - 🚀 Passionate about React and Node.js
