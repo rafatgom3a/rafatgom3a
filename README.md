@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafat Gomaa!</h1>
-<h3 align="center">Junior Full Stack developer</h3>
 
-- 💻 Full-Stack Developer
+- 💻 Junior Full-Stack Developer
 
 - 🚀 Passionate about React and Node.js
 
