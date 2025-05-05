@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Rafat Gomaa!
+<h1 align="center">Hi 👋, I'm Rafat Gomaa!</h1>
+<h3 align="center">Junior Full Stack developer</h3>
 - 💻 Full-Stack Developer
 - 🚀 Passionate about React and Node.js
 
@@ -27,8 +28,6 @@
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="python" width="40" height="40"/> </a>
 <a href="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="linux" width="40" height="40"/> </a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadeer-khaled&show_icons=true&locale=en&layout=compact" alt="hadeer-khaled" /></p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&layout=compact&hide=Astro,GLSL)](https://github.com/rafatgom3a)
