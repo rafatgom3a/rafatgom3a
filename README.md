@@ -4,9 +4,6 @@
 
 - 🚀 Passionate about React and Node.js
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rafatgom3a&label=Profile%20views&color=0e75b6&style=flat" alt="rafatgom3a" />
-		   <img src="https://img.shields.io/github/followers/rafatgom3a?label=Followers" alt="rafatgom3a" />
-</p>
 
 
 ## Connect with me:
