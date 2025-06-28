@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm Rafat Gomaa</h1>
 
----
-
 ### :woman_technologist: About Me :
 
 - 💻 Junior Full-Stack Developer
