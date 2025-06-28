@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rafat Gomaa</h1>
+<h1 align="center">Hi, I'm Rafat Gomaa</h1>
 
 - 💻 Junior Full-Stack Developer
 
