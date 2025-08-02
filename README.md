@@ -1,10 +1,14 @@
-<h1 align="center">Hi there, I'm Rafat Gomaa</h1>
+<h1 align="center" style="color: #2dc5f7;">Hi 👋, I'm Rafat</h1>
+<h3 align="center">A Passionate Full-Stack Developer</h3>
 
-### About Me :
+---
 
-- 💻 Junior Full-Stack Developer
+### 🧑‍💻 About Me
 
-- 🚀 Passionate about React and Node.js
+- 🎓 Graduated from **Computer Science**  
+- 🧠 Trained at at **ITI – Open Source Applications Development Track**  
+- 💻 Specialized in **Full-Stack Development (React & Node.js)**  
+- 🚀 Always eager to learn, build, and contribute to real-world projects
 
 ---
 
