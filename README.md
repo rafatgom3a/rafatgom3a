@@ -11,7 +11,7 @@
 ### Languages and Tools:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,vue,nodejs,express,html,css,mysql,mongodb,git,github,docker,aws,vscode,postman,python,java,c,cpp,django,linux" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,angular,tailwind,nodejs,express,django,html,css,mysql,mongodb,npm,git,github,docker,aws,vscode,postman,python,java,c,cpp,linux" />
 </div>
 
 
