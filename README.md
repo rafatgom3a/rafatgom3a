@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://em-content.zobj.net/source/skype/289/waving-hand_1f44b.png" width="35" /> 
-  I'm <span style="color:#2dc5f7;">Rafat Gomaa</span>
-</h1>
 <h1 align="center">Hi <img src="https://em-content.zobj.net/source/skype/289/waving-hand_1f44b.png" width="35" />👋, I'm Rafat Gomaa</h1>
 
 <h3 align="center">💻 A Passionate Full-Stack Developer</h3>
